@@ -5,7 +5,7 @@ layout: default_2021
 <!-- <br /> -->
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.2;
-	font-weight: normal;font-size: 40px;">The 2nd International Workshop on Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (DI-CPS)</p>
+	font-weight: normal;font-size: 40px;">The 2nd Workshop on Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (DI-CPS)</p>
 
 
 
