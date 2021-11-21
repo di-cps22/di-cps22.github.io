@@ -5,7 +5,7 @@ layout: default_2021
 <!-- <br /> -->
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.2;
-	font-weight: normal;font-size: 40px;">The Workshop on <br /> Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS)</p>
+	font-weight: normal;font-size: 40px;">The Workshop on <br /> Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (DI-CPS)</p>
 
 
 
@@ -14,7 +14,7 @@ layout: default_2021
 
 <!--![](https://raw.githubusercontent.com/cpsiotdata/cpsiotdata.github.io/master/figs/vu.jpg)-->
 
-Thank you all for attending 1st Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS). We will return next year. Workshop proceedings can be accessed <a href="toc.html" target="_blank">here</a>.
+After a successful 1st Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS) at CPS-IoT Week 2021, we are back with the second iteration of the workshop. This year, our focus is restricted to Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities. We will return next year. Workshop proceedings can be accessed <a href="toc.html" target="_blank">here</a>.
 
 ## Program
 
