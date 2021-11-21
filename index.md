@@ -26,7 +26,7 @@ With the advent of Internet of Things (IoT), sensor data is being generated at a
 </p>
 <p>
 The Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS) was started in 2021 in conjunction with CPS-IoT Week. After a successful workshop this year, we seek to continue the workshop at CPS-week next year, albeit with a specific focus on intelligent CPS for smart cities. The 2020 edition of DI-CPS received 10 submissions and had a total attendance of approximately 30. This year, we are also introducing a best paper award based on reviewer scores. Also, in addition to having experienced faculty members as part of the PC, we are nominating senior graduate students to the PC to provide them with experience in participating in program committees of academic events. Papers assigned to graduate students will have an extra reviewer chosen from the senior members of the PC. The workshop invites researchers and practitioners from academia, industry, and government to submit original research papers, papers describing lessons learned, concept papers, or descriptions of software tools on the following categories:
-
+</p>
 
 * Approaches to modeling complex decision-making tasks in smart cities and tackling uncertainty.
 * Challenges faced and lessons learned in deploying intelligent systems in smart cities in practice.
