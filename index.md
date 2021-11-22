@@ -46,20 +46,22 @@ To be announced soon.
 To be announced soon.
 
 ## Program Chairs
-* Rahul Bhadani (The University of Arizona) 
+* Rahul Bhadani (The University of Arizona)
+* Ayan Mukhopadhyay (Vanderbilt University)  
 * Raphael Stern (University of Minnesota) 
-* Ayan Mukhopadhyay (Vanderbilt University) 
+* Aron Laszka (University of Houston) 
+* Katie Driggs-Campbell (University of Illinois, Urbana Champaign) 
+
+## Technical Program Committee
+* Rahul Bhadani (The University of Arizona)
+* Ayan Mukhopadhyay (Vanderbilt University)  
+* Raphael Stern (University of Minnesota) 
 * Katie Driggs-Campbell (University of Illinois, Urbana Champaign) 
 * Aron Laszka (University of Houston) 
 * Matthew Bunting (The University of Arizona) 
 * Daniel Work (Vanderbilt University) 
 * Jonathan Sprinkle (Vanderbilt University) 
 * Xiaoqian Gong (Arizona State University) 
-
-## Technical Program Committee
-* Rahul Bhadani (The University of Arizona)
-* Matthew Bunting (The University of Arizona)
-* Daniel Work (Vanderbilt University)
 
 ## Steering Committee
 * Ayan Mukhopadhyay (Vanderbilt University)
