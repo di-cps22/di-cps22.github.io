@@ -39,16 +39,19 @@ The Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS) was 
 
 
 ## Submission Guidelines
-To be announced soon.
+Submitted papers can be up to 12 pages (long papers) or 6 pages (short papers) including appendices and references. Submissions must use the IEEE conference format. Only PDF or latex-zipped files will be accepted. There is no requirement to anonymize the submissions; Authors may choose to submit anonymously or not. Accepted papers will be published by the ACM Press and/or the ACM Digital Library; however, authors can choose to opt out of formal proceedings. We welcome prior work published in conferences or journals. Each accepted paper must be presented by a registered author. Submissions not meeting these guidelines risk immediate rejection. For questions about these policies, please contact the chairs.
 
 
 ## Important Dates
-To be announced soon.
+* Paper Submission Deadline: February 1, 2022 (23:59 Anywhere on Earth time)
+* Notification of Acceptance/Rejection: February 28, 2022
+* Camera-Ready Papers Due: (hard deadline): March 7, 2022
+
 
 ## Program Chairs
-* Rahul Bhadani (The University of Arizona)
-* Ayan Mukhopadhyay (Vanderbilt University)  
-* Raphael Stern (University of Minnesota) 
+* Ayan Mukhopadhyay (Vanderbilt University)
+* Raphael Stern (University of Minnesota)
+* Rahul Bhadani (The University of Arizona)   
 * Aron Laszka (University of Houston) 
 * Katie Driggs-Campbell (University of Illinois, Urbana Champaign) 
 
