@@ -39,7 +39,7 @@ The Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS) was 
 
 
 ## Submission Guidelines
-We welcome long papers (8 pages), short papers (4 pages), and concept papers (2 pages) including appendices and references. Submissions must use the IEEE conference format. Only PDF or latex-zipped files will be accepted. There is no requirement to anonymize the submissions; Authors may choose to submit anonymously or not. Accepted papers will be published with IEEE and appear on IEEE Xplore; however, authors can choose to opt out of formal proceedings. We welcome prior work published in conferences or journals. Each accepted paper must be presented by a registered author. Submissions not meeting these guidelines risk immediate rejection. For questions about these policies, please contact the chairs.
+We welcome long papers (8 pages), short papers (4 pages), and concept papers (2 pages) including appendices and references. Submissions must use the IEEE conference format. Only PDF or latex-zipped files will be accepted. There is no requirement to anonymize the submissions; Authors may choose to submit anonymously or not. Accepted papers will be published with IEEE and appear on IEEE Xplore; however, authors can choose to opt out of formal proceedings. We welcome prior work published in conferences or journals (authors will have to opt out of publication in case the submitted work does not add to the previously published version, but can still present their work at the workshop). Each accepted paper must be presented by a registered author. Submissions not meeting these guidelines risk immediate rejection. For questions about these policies, please contact the chairs.
 
 
 ## Important Dates
