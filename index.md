@@ -16,7 +16,7 @@ layout: default_2021
 
 After a successful DI-CPS workshop at CPS-IoT Week 2021, we are back with the second iteration of the workshop. This year, our focus is restricted to Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities.
 
-Paper submission link: <a href="https://easychair.org/cfp/DI-CPS22/" target="_blank"> <strong> https://easychair.org/cfp/DI-CPS22 </strong> </a> </strong> </h4>
+Paper submission link: <a href="https://easychair.org/cfp/DI-CPS22/" target="_blank"><strong>https://easychair.org/cfp/DI-CPS22</strong></a> </strong> </h4>
 ## Background
 
 <p> 
