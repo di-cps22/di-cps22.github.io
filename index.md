@@ -44,7 +44,7 @@ We welcome long papers (8 pages), short papers (4 pages), and concept papers (2 
 
 
 ## Important Dates
-* Paper Submission Deadline: February 1, 2022 (23:59 Anywhere on Earth time)
+* Paper Submission Deadline: February 12, 2022 (23:59 Anywhere on Earth time)
 * Notification of Acceptance/Rejection: February 28, 2022
 * Camera-Ready Papers Due: (hard deadline): March 7, 2022
 
