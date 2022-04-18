@@ -22,7 +22,7 @@ After a successful DI-CPS workshop at CPS-IoT Week 2021, we are back with the se
 
 Zoom link will be provided soon.
 
-### May 3, 2022 (All times MET, Milano Time (GMT+2, CDT+7))
+### May 3, 2022 (All times in Central European Summer  Time (Milano Time; GMT+2, CDT+7))
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -45,7 +45,7 @@ Zoom link will be provided soon.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ldsd"><span style="font-weight:bold;background-color:#FBBC04">All times MET, Milano Time (GMT+2, CDT+7)</span></th>
+    <th class="tg-ldsd"><span style="font-weight:bold;background-color:#FBBC04">(Milano Time; GMT+2, CDT+7)</span></th>
     <th class="tg-za14"></th>
   </tr>
 </thead>
