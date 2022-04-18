@@ -16,7 +16,210 @@ layout: default_2021
 
 After a successful DI-CPS workshop at CPS-IoT Week 2021, we are back with the second iteration of the workshop. This year, our focus is restricted to Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities.
 
-<h4 style="margin-top: 0;"> <strong> Paper submission link: <a href="https://easychair.org/conferences/?conf=dicps22" target="_blank"><strong>https://easychair.org/conferences/?conf=dicps22</strong></a> </strong> </h4>
+<!--h4 style="margin-top: 0;"> <strong> Paper submission link: <a href="https://easychair.org/conferences/?conf=dicps22" target="_blank"><strong>https://easychair.org/conferences/?conf=dicps22</strong></a> </strong> </h4-->
+
+## Program
+
+Zoom link will be provided soon.
+
+### May 3, 2022 (All times MET, Milano Time (GMT+2, CDT+7))
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ixim{background-color:#E7F9EF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-o5n3{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-gd2f{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:bottom}
+.tg .tg-w297{background-color:#63D297;border-color:inherit;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-ldsd{background-color:#FBBC04;border-color:inherit;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-za14{border-color:inherit;text-align:left;vertical-align:bottom}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-ysqs{background-color:#63D297;border-color:inherit;text-align:left;vertical-align:bottom}
+.tg .tg-bn54{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-kcps{background-color:#FFF;text-align:left;vertical-align:bottom}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0pxj{background-color:#E7F9EF;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-q2ns{background-color:#E7F9EF;text-align:left;vertical-align:bottom}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ldsd"><span style="font-weight:bold;background-color:#FBBC04">All times MET, Milano Time (GMT+2, CDT+7)</span></th>
+    <th class="tg-za14"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-w297"><span style="font-weight:bold;background-color:#63D297">Time</span></td>
+    <td class="tg-ysqs"><span style="background-color:#63D297">Agenda</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-bn54"><span style="font-weight:bold;background-color:#FFF">14:00 - 14:15</span></td>
+    <td class="tg-gd2f"><span style="background-color:#FFF">Opening Remarks</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-ixim"><span style="font-weight:bold;background-color:#E7F9EF">14:15 - 15:15</span></td>
+    <td class="tg-ixim"><span style="font-weight:bold;background-color:#E7F9EF">Session 1: Keynote (TBD)</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-kcps"></td>
+    <td class="tg-kcps"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pxj"><span style="font-weight:bold;background-color:#E7F9EF">15:15 - 15:30 </span></td>
+    <td class="tg-0pxj"><span style="font-weight:bold;background-color:#E7F9EF">Break</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-kcps"></td>
+    <td class="tg-kcps"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pxj"><span style="font-weight:bold;background-color:#E7F9EF">15:30 - 16:30 </span></td>
+    <td class="tg-0pxj"><span style="font-weight:bold;background-color:#E7F9EF">Session 2: Public transportation CPS</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-kcps"></td>
+    <td class="tg-kcps"><span style="font-weight:normal;background-color:#FFF">1. E. Taya, et al., Estimating congestion in train cars by using BLE Signals</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-q2ns"></td>
+    <td class="tg-q2ns"><span style="font-weight:normal;background-color:#E7F9EF">2. A. Dubey, et al., Optimizing Electrification of Public Transit</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-kcps"></td>
+    <td class="tg-kcps"><span style="background-color:#FFF">3. F. Paparella, et al., Joint Design and Operation of an Electric Autonomous Mobility-on-Demand System</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-q2ns"></td>
+    <td class="tg-q2ns"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-o5n3"><span style="font-weight:bold;background-color:#FFF">16:30 - 16:45</span></td>
+    <td class="tg-o5n3"><span style="font-weight:bold;background-color:#FFF">Break</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-q2ns"></td>
+    <td class="tg-q2ns"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-o5n3"><span style="font-weight:bold;background-color:#FFF">16:45 - 17:45</span></td>
+    <td class="tg-o5n3"><span style="font-weight:bold;background-color:#FFF">Session 3: Data-driven CPS</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-q2ns"></td>
+    <td class="tg-q2ns"><span style="font-weight:normal;background-color:#E7F9EF">4. J. Veselsky, et al., Establishing Trust in Vehicle-to-Vehicle Coordination: A Sensor Fusion Approach</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-kcps"></td>
+    <td class="tg-kcps"><span style="font-weight:normal;background-color:#FFF">5. R. Bhadani, et al., Strym: A Python Package for Real-time CAN Data Logging, Analysis and Visualization to Work with USB-CAN Interface</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-q2ns"></td>
+    <td class="tg-q2ns"><span style="font-weight:normal;background-color:#E7F9EF">6. A. Richardson, et al., Intelligent Structuring and Semantic Mapping of Dash Camera Footage and CAN Bus Data</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-o5n3"><span style="font-weight:bold;background-color:#FFF">17:45 - 18:00</span></td>
+    <td class="tg-o5n3"><span style="font-weight:bold;background-color:#FFF">Break</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-q2ns"></td>
+    <td class="tg-q2ns"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-o5n3"><span style="font-weight:bold;background-color:#FFF">18:00 - 19:00</span></td>
+    <td class="tg-o5n3"><span style="font-weight:bold;background-color:#FFF">Session 4: Vehicles in a smart-city environment</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-q2ns"></td>
+    <td class="tg-q2ns"><span style="font-weight:normal;background-color:#E7F9EF">7. G. Gunter, et al., Experimental testing of a control barrier function on an automated vehicle in live multi-lane traffic</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-kcps"></td>
+    <td class="tg-kcps"><span style="font-weight:normal;background-color:#FFF">8. T. Li and R. Stern, Robustness of vehicle identification via trajectory dynamics to noisy measurements and malicious attacks</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-q2ns"></td>
+    <td class="tg-q2ns"><span style="background-color:#E7F9EF">9. M. Bunting, et al., Data from the Development Evolution of a Vehicle for Custom Control</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+
 ## Background
 
 <p> 
