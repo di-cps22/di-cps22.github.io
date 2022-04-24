@@ -20,9 +20,11 @@ After a successful DI-CPS workshop at CPS-IoT Week 2021, we are back with the se
 
 ## Program
 
-Zoom link will be provided soon.
+Check your email from <b>CPS-IoT Week 2022 Registrar</b> for Zoom link.
 
 ### May 3, 2022 (All times in Central European Summer  Time (Milano Time; GMT+2, CDT+7))
+
+Schedules in multiple time zone can be found on <a href="https://cpsiotweek.neslab.it/program_login.php" target="_blank">https://cpsiotweek.neslab.it/program_login.php#0</a>.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
