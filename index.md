@@ -62,7 +62,7 @@ Schedules in multiple time zone can be found on <a href="https://cpsiotweek.nesl
   </tr>
   <tr>
     <td class="tg-ixim"><span style="font-weight:bold;background-color:#E7F9EF">14:15 - 15:15</span></td>
-    <td class="tg-ixim"><span style="font-weight:bold;background-color:#E7F9EF">Session 1: Keynote (TBD)</span></td>
+    <td class="tg-ixim"><span style="font-weight:bold;background-color:#E7F9EF">Session 1: Keynote. Speaker: Karl Henrik Johansson</span></td>
   </tr>
   <tr>
     <td class="tg-kcps"></td>
